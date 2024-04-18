@@ -1,0 +1,2 @@
+LastCheck = Idle.fbx 
+DoNotAsk = 1

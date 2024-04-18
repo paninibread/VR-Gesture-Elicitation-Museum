@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Oculus menu.unity
+    guid: a73e11171b47c804b89b3f1fffbcb4d4
+  - enabled: 1
+    path: Assets/Scenes/select.unity
+    guid: cb662ed00406f42429d00a646dac8030
+  - enabled: 1
+    path: Assets/Scenes/select play.unity
+    guid: 8c9156725c69fd54381aaae3033e716f
+  - enabled: 1
+    path: Assets/Scenes/Oculus base.unity
+    guid: 780edc8d923d846408e852177d5da101
+  - enabled: 1
+    path: Assets/Scenes/flick receive.unity
+    guid: 96da69252db02eb4d814454b7324c544
+  - enabled: 1
+    path: Assets/Scenes/flick send.unity
+    guid: f33007736b2ec6640b1ddf2504bb6cc7
+  - enabled: 1
+    path: Assets/Scenes/flick send play.unity
+    guid: 586093b7c3fbc1b4f99728bd31138d6a
+  - enabled: 1
+    path: Assets/Scenes/rotate.unity
+    guid: 65412ad1e4dc9bf449c8cb4406c2b937
+  - enabled: 1
+    path: Assets/Scenes/rotate play.unity
+    guid: c79df7f928dd0c7408d5a2f50f468695
+  - enabled: 1
+    path: Assets/Scenes/scale.unity
+    guid: c9ac6feeccc045f4bb0fd61fdc2f4a68
+  - enabled: 1
+    path: Assets/Scenes/scale play.unity
+    guid: 0ba7c240997815842b8a10979e20d1cf
+  - enabled: 1
+    path: Assets/Scenes/playground.unity
+    guid: 5709397a7257894459561ea78a40e6c4
+  - enabled: 1
+    path: Assets/Scenes/play intro.unity
+    guid: 3546a32d0c2b04246869167dc4c77a4a
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f1813a6a27f148e4da7b71f972cdba4d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 83653a39ec3ac1c49ab219bfbff21d8f, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 183c5298f1df58a4388e10ec5ea629d9, type: 2}
